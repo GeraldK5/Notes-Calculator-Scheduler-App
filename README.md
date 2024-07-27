@@ -19,6 +19,11 @@ A versatile Flutter mobile application that allows users to take notes, use a ca
   - View and manage upcoming events.
 
 ## Screenshots
+![](images/x1.jpeg)
+![](images/x2.jpeg)
+![](images/x3.jpeg)
+![](images/x4.jpeg)
+![](images/x5.jpeg)
 
 
 
