@@ -1,16 +1,32 @@
-# smolleytoolbox
+# Flutter Notes, Calculator, and Scheduler App
 
-A new Flutter project.
+A versatile Flutter mobile application that allows users to take notes, use a calculator, and schedule events with notification alerts. All data is stored locally in a SQLite database.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Note-Taking:**
+  - Create, read, update, and delete notes.
+  - Store notes locally using SQLite.
+  - Simple and intuitive user interface for managing notes.
 
-A few resources to get you started if this is your first Flutter project:
+- **Calculator:**
+  - Perform basic arithmetic operations.
+  - User-friendly interface for quick calculations.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Scheduler:**
+  - Schedule events and set reminders.
+  - Receive notifications when scheduled events are due.
+  - View and manage upcoming events.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+
+
+## Installation
+
+To get the app running on your local machine, follow these steps:
+
+1. **Clone the Repository:**
+   ```sh
+   git clone <repository-url>
+   cd <repository-directory>
